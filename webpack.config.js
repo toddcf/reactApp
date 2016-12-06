@@ -1,6 +1,7 @@
 var config = {
    entry: './src/containers/main.js',
 	
+   // I have a feeling the OUTPUT may need to be changed:
    output: {
       path:'./',
       filename: 'index.js',
