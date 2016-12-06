@@ -1,13 +1,13 @@
 import React from 'react';
 
-class App extends React.Component {
+class mainContent extends React.Component {
    render() {
       return (
          <div>
-            MyTruck
+            mainContent
          </div>
       );
    }
 }
 
-export default App;
+export default mainContent;
